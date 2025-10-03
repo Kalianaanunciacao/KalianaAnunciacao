@@ -4,6 +4,7 @@
 📊 Apaixonada por **dados, SQL, Python, Power BI e Inteligência Artificial**  
 💡 Buscando minha primeira oportunidade como **Analista de Dados Júnior**  
 
+
 ---
 
 ## 🚀 Sobre mim
@@ -19,6 +20,13 @@
 - **Banco de Dados:** MySQL, PostgreSQL  
 
 ---
+
+ ## 🌍 Idiomas em Estudo
+
+Aprendendo novas línguas para ampliar comunicação pessoal e profissional:  
+
+- 🇺🇸 **Inglês** – estudante (foco em trabalho e viagens)  
+- 🇪🇸 **Espanhol** – estudante (foco em conversação e leitura)  
 
 ## 📌 Projetos em destaque
 - 📚 [Sistema de Biblioteca](#) → Banco de dados com views, funções e triggers  

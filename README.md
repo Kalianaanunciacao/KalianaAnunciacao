@@ -1,4 +1,4 @@
-# Olá, eu sou a Kaliana 👋
+# Olá, eu sou a Kaliana 
 
 🎓 Formada em **Big Data** e atualmente estudante de **Estatística**  
 📊 Apaixonada por **dados, SQL, Python, Power BI e Inteligência Artificial**  

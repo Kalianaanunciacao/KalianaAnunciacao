@@ -28,10 +28,6 @@ Aprendendo novas línguas para ampliar comunicação pessoal e profissional:
 - 🇺🇸 **Inglês** – estudante (foco em trabalho e viagens)  
 - 🇪🇸 **Espanhol** – estudante (foco em conversação e leitura)  
 
-## 📌 Projetos em destaque
-- 📚 [Sistema de Biblioteca](#) → Banco de dados com views, funções e triggers  
-- 🌊 [Projeto Rios](#) → Análise de resíduos e monitoramento ambiental com SQL  
-- 📊 Dashboards no Power BI (em construção)  
 
 ---
 
